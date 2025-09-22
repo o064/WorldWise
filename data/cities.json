@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "ef19",
+      "cityName": "Moulin-Neuf",
+      "country": "France",
+      "date": "2025-09-13T10:11:16.605Z",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "position": {
+        "lng": "0.06093947210870088",
+        "lat": "45.00619992911947"
+      }
+    },
+    {
+      "id": "352c",
+      "cityName": "Gours",
+      "country": "France",
+      "date": "2025-09-13T10:11:16.605Z",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "position": {
+        "lng": "0.022487848764369826",
+        "lat": "44.990419854613116"
+      }
+    }
+  ]
+}
