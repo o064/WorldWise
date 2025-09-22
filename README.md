@@ -6,7 +6,7 @@
 **WorldWise** is an interactive travel app designed to help users track their adventures, visualize places they've visited, and plan future trips. With an intuitive map-based UI, you can pin cities, add personal notes, and see your journey unfold at a glance. WorldWise is perfect for globetrotters, travel bloggers, and anyone who loves exploring the world!
 
 ## Live Demo 
-https://world-wise-ubr4.vercel.app/
+[https://world-wise-ubr4.vercel.app/](https://world-wise-gilt-ten.vercel.app/)
 ## Features
 
 * 🗺️ **Interactive Map:** Pin cities and see them on a live world map.
